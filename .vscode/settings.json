@@ -1,7 +1,10 @@
 {
     "java.project.sourcePaths": [
         "1.Java basics/mod1-patterns",
+        "1.Java basics/mod1-functions and arrays",
         "1.Java basics/mod1-basics",
-        "1.Java basics/mod1-functions and arrays"
+        "1.Java basics/mod1-String,StringBuilder&Arraylist",
+        "1.Java basics/mod1-2dArrays",
+        ""
     ]
 }

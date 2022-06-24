@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "recursion in arrays",
         "intro to recursion",
-        "recursion in arrays"
+        "recursion on the way up"
     ]
 }

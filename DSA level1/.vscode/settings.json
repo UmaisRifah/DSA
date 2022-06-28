@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "module 1/mod1-basics",
+        "module 1/mod1-2dArrays"
+    ]
+}

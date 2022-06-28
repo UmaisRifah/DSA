@@ -48,10 +48,11 @@ public class b_stringCompression {
 		return s;
 	}
 	public static void main(String[] args) {
-		try (Scanner scr = new Scanner(System.in)) {
-            String str = scr.next();
-            System.out.println(compression1(str));
-            System.out.println(compression2(str));
-        }
+		Scanner scr = new Scanner(System.in);
+        String str = scr.next();
+        System.out.println(compression1(str));
+        System.out.println(compression2(str));  
+        scr.close();  
+        
 	}
 }

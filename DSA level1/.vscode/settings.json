@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "module 1/mod1-basics",
-        "module 1/mod1-2dArrays"
+        "module 1/mod1-2dArrays",
+        "module 1/5-String, StringBuilder & Arraylist"
     ]
 }

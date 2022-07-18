@@ -12,6 +12,7 @@ public class f2_rotate90 {
         }
         scr.close();
 
+        //transpose of upper triangle
         for(int i = 0;i<a.length;i++){
             for(int j = i;j<a[0].length;j++){
                 
@@ -21,6 +22,8 @@ public class f2_rotate90 {
                 
             }
         }
+
+        // reverse
         for(int i = 0;i<a.length;i++){
             for(int j = 0;j<a[0].length/2;j++){
                 int temp = a[i][j];
